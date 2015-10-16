@@ -6,3 +6,4 @@ eval "$(pyenv init -)"
 export PYTHONSTARTUP=~/.pythonrc
 
 alias rm='rm -i'
+alias open='xdg-open'
