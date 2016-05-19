@@ -7,3 +7,6 @@ export PYTHONSTARTUP=~/.pythonrc
 
 alias rm='rm -i'
 alias open='xdg-open'
+
+# install xclip
+alias clipboard="xclip -selection c"
